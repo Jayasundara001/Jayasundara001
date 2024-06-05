@@ -20,3 +20,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+| ![Jyasundara's github stats](https://github-readme-stats.vercel.app/api?username=Jayasundara001&show_icons=true&theme=tokyonight) | ![Jayasundara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayasundara001&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasundara001&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Jayasundara001&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
