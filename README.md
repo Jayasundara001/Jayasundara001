@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **In my studies**
 
-- 📫 How to reach me **tjayasundara@gmail.com**
+- 📫 How to reach me **tjayasundara90@gmail.com**
 
 - ⚡ Fun fact **call me as tharaka**
 
