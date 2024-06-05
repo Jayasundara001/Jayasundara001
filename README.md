@@ -4,6 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayasundara001&label=Profile%20views&color=0e75b6&style=flat" alt="jayasundara001" /> </p>
 
 ---
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="50%" align="right" alt="Google" src="https://media.licdn.com/dms/image/C561BAQG0k-LbCRwDIA/company-background_10000/0/1584960492564/wayamba_university_cover?e=2147483647&v=beta&t=w8iU8Sx5xT8JUBkNri5TlL8OxhEPTllJXHSIGb7hEkc" />
+
 - 🔭 I'm an Undergraduate at WUSL
   
 - 🌱 I’m currently learning **Java**
