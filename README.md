@@ -12,7 +12,7 @@
 
 - 🔭 I'm an Undergraduate at WUSL
   
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Dart**
 
 - 👯 I’m looking to collaborate on **In my studies**
 
